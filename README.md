@@ -1,5 +1,5 @@
 <div align="center">
-```cpp
+```c
 #include "tixvage.hpp"
 ```
 </div>
