@@ -1,7 +1,7 @@
 
 <div align="center">
   
-```cpp
-#include "tixvage.hpp"
+```c
+#include "tixvage.h"
 ```
 </div>
